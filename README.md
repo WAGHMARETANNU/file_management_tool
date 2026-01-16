@@ -42,3 +42,5 @@ This repository follows standard Python development practices:
 ## 🤝 Contribution
 
 This project was developed with a focus on clean logic and user-friendly GUI design. Suggestions and Pull Requests are welcome.
+
+[![Python Quality Check](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml/badge.svg)](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml)
