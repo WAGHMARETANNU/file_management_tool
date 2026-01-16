@@ -1,6 +1,6 @@
 # Desktop File Explorer 📂
 
-[![Python Quality Check](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml/badge.gif)](https://github.com/WAGHMARETANNU/file_management_tool/actions)
+[![Python Quality Check](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml/badge.svg)](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml)
 
 A robust, GUI-based file management utility built with Python. This tool simplifies local file organization by allowing users to browse, search, and sort files with real-time file-system interaction.
 
@@ -42,5 +42,3 @@ This repository follows standard Python development practices:
 ## 🤝 Contribution
 
 This project was developed with a focus on clean logic and user-friendly GUI design. Suggestions and Pull Requests are welcome.
-
-[![Python Quality Check](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml/badge.svg)](https://github.com/WAGHMARETANNU/file_management_tool/actions/workflows/lint.yml)
