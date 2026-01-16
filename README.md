@@ -5,10 +5,10 @@
 A robust, GUI-based file management utility built with Python. This tool simplifies local file organization by allowing users to browse, search, and sort files with real-time file-system interaction.
 
 ## 🚀 Key Features
-- **Dynamic Sorting:** Sort local files instantly by Name, Date Modified, or File Type.
-- **Search Capability:** Integrated search bar to locate specific files within directories.
-- **File Metadata:** Displays real-time file counts and system details.
-- **Cross-Platform Design:** Built using `tkinter` for a lightweight, native experience on Windows.
+- **Dynamic Sorting:** Toggle between Alphabetical, Chronological (Date Modified), and Type-based sorting via a native GUI.
+- **Directory Browsing:** Integrated `filedialog` allows users to select any system folder for immediate indexing.
+- **Real-time Metadata Interaction:** Leverages Python's `os` module to fetch and display actual system file structures.
+- **Lightweight Footprint:** A zero-dependency tool using Python's standard library for maximum portability.
 
 ## 🛠️ Technical Stack
 - **Language:** Python 3.x
